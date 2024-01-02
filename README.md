@@ -17,8 +17,6 @@ WARNING: 主要记录一些自我学习的心得，**不对内容质量与正确
 
 ## About Crash Course Computer Science
 
----
-
 开始学**计算机科学速成课** Crash Course Computer Science，果然刚开始的理论课都有点点无聊👀
 
 2024 年 1 月 2 日 14:47
@@ -54,8 +52,6 @@ CleanShot X 似乎有一个很丑的命名规范，但是无所谓懒的管了�
 好快的课，直接从门电路讲到算法了，1-12
 
 2024 年 1 月 2 日 18:37
-
----
 
 ## About MIT-Missing-Semester
 

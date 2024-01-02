@@ -19,7 +19,7 @@ notes of csdiy.wiki
 
 CleanShot X 似乎有一个很丑的命名规范，但是无所谓懒的管了，开摆😤
 
-<img src="/Users/llonvne/Desktop/cs-notes/assets/CleanShot 2024-01-02 at 14.50.38@2x.png" alt="CleanShot 2024-01-02 at 14.50.38@2x" style="zoom:50%;" />
+<img src="./README.assets/CleanShot%202024-01-02%20at%2014.50.38@2x.png" alt="CleanShot 2024-01-02 at 14.50.38@2x" style="zoom: 50%;" />
 
 2024 年 1 月 2 日 14:51
 

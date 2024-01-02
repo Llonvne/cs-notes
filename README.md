@@ -1,7 +1,7 @@
 # cs-notes
 notes of csdiy.wiki 
 
-该文件主要记录一些心得，体会，已经一些乱七八糟想说的话，规划见 **Schedule.md**
+该文件主要记录一些心得，体会，以及一些乱七八糟想说的话，规划见 **Schedule.md**
 
 ----
 

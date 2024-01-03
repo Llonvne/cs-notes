@@ -93,7 +93,7 @@ Lession 2 Gooooo!
 
 NEW 终端
 
-<img src="/Users/llonvne/Library/Application Support/CleanShot/media/media_OjD6gASl1T/CleanShot 2024-01-03 at 19.12.05@2x.png" alt="CleanShot 2024-01-03 at 19.12.05@2x" style="zoom:50%;" />
+<img src="./assets/CleanShot%202024-01-03%20at%2019.46.25@2x.png" alt="CleanShot 2024-01-03 at 19.46.25@2x" style="zoom:50%;" />
 
 2024 年 1 月 3 日 19:13
 

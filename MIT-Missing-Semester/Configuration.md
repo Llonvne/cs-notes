@@ -2,6 +2,12 @@
 
 From [iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh)
 
+
+
+
+
+
+
 ## Apps
 
 * iTerm 2
@@ -18,6 +24,10 @@ Solarized Light
 ## Plugins
 
 zsh-syntax-highlighting
+
+autojump *j*
+
+
 
 ## Looks
 

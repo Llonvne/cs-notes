@@ -17,6 +17,12 @@ WARNING: 主要记录一些自我学习的心得，**不对内容质量与正确
 
 Day 2, Let's gooooooooooo!
 
+为什么Github不支持删除线啊😥
+
+<img src="./assets/CleanShot%202024-01-03%20at%2011.52.29@2x.png" alt="CleanShot 2024-01-03 at 11.52.29@2x" style="zoom:50%;" />
+
+<img src="./assets/CleanShot%202024-01-03%20at%2011.53.16@2x.png" alt="CleanShot 2024-01-03 at 11.53.16@2x" style="zoom:50%;" />
+
 2024 年 1 月 3 日 11:51
 
 ## About Crash Course Computer Science

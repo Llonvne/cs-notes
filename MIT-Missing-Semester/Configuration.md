@@ -1,25 +1,9 @@
 # Configuration
 
-From [iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh)
-
-
-
-
-
-
-
 ## Apps
 
 * iTerm 2
 * Oh My Zsh
-
-## Fonts
-
-PowerFonts
-
-## Colors
-
-Solarized Light
 
 ## Plugins
 
@@ -27,11 +11,28 @@ zsh-syntax-highlighting
 
 autojump *j*
 
+### copypath 
 
+```shell
+copypath: 无参数，直接拷贝当前路径；
+copypath <文件或目录>：拷贝指定文件或目录的绝对路径；
+```
 
-## Looks
+### you-should-use
 
-<img src="./assets/CleanShot%202024-01-03%20at%2014.41.46@2x.png" alt="CleanShot 2024-01-03 at 14.41.46@2x" style="zoom:50%;" />
+### autojump
+
+### zsh-autosuggestions
+
+### Theme
+
+```shell
+ZSH_THEME="powerlevel10k/powerlevel10k"
+```
+
+### Looks
+
+<img src="/Users/llonvne/Library/Application Support/CleanShot/media/media_OjD6gASl1T/CleanShot 2024-01-03 at 19.12.05@2x.png" alt="CleanShot 2024-01-03 at 19.12.05@2x" style="zoom:50%;" />
 
 
 

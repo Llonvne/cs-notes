@@ -13,7 +13,11 @@ WARNING: 主要记录一些自我学习的心得，**不对内容质量与正确
 
 2024 年 1 月 2 日 12:09
 
+---
 
+Day 2, Let's gooooooooooo!
+
+2024 年 1 月 3 日 11:51
 
 ## About Crash Course Computer Science
 

@@ -80,3 +80,14 @@ CleanShot X 似乎有一个很丑的命名规范，但是无所谓懒的管了�
 Lession 2 Gooooo!
 
 2024 年 1 月 3 日 12:13
+
+---
+
+谁会不爱配置一个好看的终端呢😤
+
+<img src="./assets/CleanShot%202024-01-03%20at%2014.41.46@2x.png" alt="CleanShot 2024-01-03 at 14.41.46@2x" style="zoom:50%;" />
+
+2024 年 1 月 3 日 14:43
+
+---
+

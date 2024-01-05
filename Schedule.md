@@ -6,7 +6,7 @@
 
 > OnProgress 意味着正在进行，一般只有一项或者两项
 
-#### [MIT-Missing-Semester](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/) [计算机教学中消失的一个学期] (3/11)
+#### [MIT-Missing-Semester](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/) [计算机教学中消失的一个学期] (4/11)
 
 ## Suspending
 
@@ -21,3 +21,5 @@
 >表示已经加入计划，等待执行
 
 #### [Regex Additional Problems](./MIT-Missing-Semester/4.Data Wrangling/regex-one-note.md) 更多的正则练习
+
+#### Shell 编程（课程待定）

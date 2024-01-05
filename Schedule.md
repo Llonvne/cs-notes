@@ -2,6 +2,12 @@
 
 学习的规划
 
+## Overall
+
+> 一个对于面前计划的概述
+
+先认真学一下 [MIT-Missing-Semester](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/) ，学习一下各种之前一知半解的工具
+
 ## OnProgress
 
 > OnProgress 意味着正在进行，一般只有一项或者两项
@@ -23,3 +29,5 @@
 #### [Regex Additional Problems](./MIT-Missing-Semester/4.Data Wrangling/regex-one-note.md) 更多的正则练习
 
 #### Shell 编程（课程待定）
+
+#### [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/tree/main) 文字材料

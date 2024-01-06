@@ -121,3 +121,6 @@ NEW 终端
 
 ---
 
+<img src="./assets/CleanShot%202024-01-06%20at%2017.11.04@2x.png" alt="CleanShot 2024-01-06 at 17.11.04@2x" style="zoom:33%;" />
+
+**tmux** 启动！

@@ -3,6 +3,8 @@ package org.komapper.example
 import kotlinx.coroutines.flow.Flow
 import org.komapper.core.dsl.Meta
 import org.komapper.core.dsl.QueryDsl
+import org.komapper.core.dsl.query.map
+import org.komapper.core.dsl.query.single
 import org.komapper.example.model.message.Message
 import org.komapper.example.model.message.message
 import org.komapper.r2dbc.R2dbcDatabase
@@ -30,6 +32,26 @@ class ImperativeTxController(private val database: R2dbcDatabase) {
         database.runQuery {
             val m = Meta.message
             QueryDsl.insert(m).single(message)
+        }
+    }
+
+    @RequestMapping(params = ["id", "new"])
+    suspend fun modify(@RequestParam id: Int, @RequestParam new: String): Message {
+        database.runQuery {
+            val m = Meta.message
+            QueryDsl.from(m)
+                .where { m.id eq id }
+                .map {
+                    it.map {
+                        it.copy(text = new)
+                    }
+                }
+        }
+        return database.runQuery {
+            val m = Meta.message
+            QueryDsl.from(m).where {
+                m.id eq id
+            }.single()
         }
     }
 }

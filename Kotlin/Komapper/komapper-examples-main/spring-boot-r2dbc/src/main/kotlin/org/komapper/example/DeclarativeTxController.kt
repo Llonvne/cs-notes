@@ -21,7 +21,7 @@ class DeclarativeTxController(private val database: R2dbcDatabase) {
     suspend fun list(): Flow<Message> {
         return database.flowQuery {
             val m = Meta.message
-            QueryDsl.from(m).selectAs
+            QueryDsl.from(m)
                 .orderBy(m.id)
         }
     }

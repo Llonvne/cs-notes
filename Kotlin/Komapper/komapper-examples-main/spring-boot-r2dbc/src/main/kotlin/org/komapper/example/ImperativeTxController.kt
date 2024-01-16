@@ -3,6 +3,8 @@ package org.komapper.example
 import kotlinx.coroutines.flow.Flow
 import org.komapper.core.dsl.Meta
 import org.komapper.core.dsl.QueryDsl
+import org.komapper.example.model.message.Message
+import org.komapper.example.model.message.message
 import org.komapper.r2dbc.R2dbcDatabase
 import org.springframework.transaction.annotation.Transactional
 import org.springframework.web.bind.annotation.RequestMapping

@@ -27,3 +27,13 @@ dependencies {
 springBoot {
     mainClass.set("org.komapper.example.ApplicationKt")
 }
+
+tasks {
+    withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile>().configureEach {
+        kotlinOptions.freeCompilerArgs += listOf("-opt-in=org.komapper.annotation.KomapperExperimentalAssociation","-Xcontext-receivers")
+    }
+}
+
+ksp {
+    arg("komapper.enableEntityStoreContext", "true")
+}

@@ -15,6 +15,8 @@
 #### [MIT-Missing-Semester](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/) [计算机教学中消失的一个学期] (6/11)
 #### 学习 React Native
 
+#### [Pro Git](https://git-scm.com/book/en/v2) [Pro Git] (1.8/10.9) [Pro Git Local](./MIT-Missing-Semester/6.Version Control (Git)/Pro Git)
+
 ## Suspending
 
 >Suspending 表示该课程被短暂挂起，将在很快（通常是一周内恢复学习）

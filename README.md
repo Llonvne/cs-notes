@@ -45,6 +45,14 @@ cs-notes 启动！
 
 ---
 
+虽然主要是换电脑了，有些前面的配置没有转移过来 emmm
+
+但是换电脑了还是挺开心的😃
+
+2024 年 1 月 25 日 12:29
+
+---
+
 ## About Crash Course Computer Science
 
 开始学**计算机科学速成课** Crash Course Computer Science，果然刚开始的理论课都有点点无聊👀

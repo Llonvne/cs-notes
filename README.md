@@ -35,6 +35,16 @@ Day 2, Let's gooooooooooo!
 
 2024 年 1 月 3 日 21:33
 
+---
+
+最近在写 [OnlineJudge](https://github.com/Llonvne/OnlineJudge) 小小停更一会这里，哈哈哈，一停就是 3 Weeks ago 🥲
+
+cs-notes 启动！
+
+2024 年 1 月 25 日 12:27
+
+---
+
 ## About Crash Course Computer Science
 
 开始学**计算机科学速成课** Crash Course Computer Science，果然刚开始的理论课都有点点无聊👀

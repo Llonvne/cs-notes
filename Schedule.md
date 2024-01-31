@@ -29,11 +29,17 @@
 
 #### [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/tree/main) 文字材料
 
-[Pro Git](https://git-scm.com/book/en/v2) [Pro Git] (3.6/10.9) [Pro Git Local](./MIT-Missing-Semester/6.Version Control (Git)/Pro Git)
+[Pro Git](https://git-scm.com/book/en/v2) [Pro Git] (5.3/10.9) [Pro Git Local](./MIT-Missing-Semester/6.Version Control (Git)/Pro Git)
 
 #### [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?vd_source=3c6a30ba41ba4e1e1d42b66d5c0a7e70) 【计算机科学速成课】(14/40)
 
+#### [Git from Buttom Up](https://jwiegley.github.io/git-from-the-bottom-up/) (0/3)
+
 科普课，无太多笔记
+
+[Learn Git Branching](Learn Git Branching) 游戏
+
+(first-contribution)[https://github.com/firstcontributions/first-contributions] 
 
 ## Waiting
 

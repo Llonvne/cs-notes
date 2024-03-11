@@ -41,6 +41,8 @@
 
 (first-contribution)[https://github.com/firstcontributions/first-contributions] 
 
+一些有趣的事情在 http://wiki.c2.com
+
 ## Waiting
 
 > 表示短期/中期不会去主动阅读，可能是有一定难度，前置知识不足

@@ -42,6 +42,8 @@
 
 一些有趣的事情在 http://wiki.c2.com
 
+[The Shell Scripting Tutorial](https://www.shellscript.sh/)
+
 ## Waiting
 
 > 表示短期/中期不会去主动阅读，可能是有一定难度，前置知识不足

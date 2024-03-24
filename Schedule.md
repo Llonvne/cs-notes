@@ -14,6 +14,8 @@
 
 #### 学习 React Native
 
+#### [CS61A: Structure and Interpretation of Computer Programs](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS61A/) (w1.6/22.Intro  )
+
 ## Suspending
 
 >Suspending 表示该课程被短暂挂起，将在很快（通常是一周内恢复学习）
@@ -44,6 +46,8 @@
 
 [The Shell Scripting Tutorial](https://www.shellscript.sh/)
 
+Lambda 演算法，练习[CS6A1 练习题](https://inst.eecs.berkeley.edu/~cs61a/su20/hw/hw02/)
+
 ## Waiting
 
 > 表示短期/中期不会去主动阅读，可能是有一定难度，前置知识不足
@@ -55,3 +59,7 @@
 ## Finished
 
 #### [MIT-Missing-Semester](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/) [计算机教学中消失的一个学期] (11/11)
+
+[the-art-of-command-line]()
+
+[macOS Setup Guide](https://sourabhbajaj.com/mac-setup/Security/)
